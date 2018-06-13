@@ -1,0 +1,16 @@
+{
+  "name": "design-test-page",
+  "version": "1.0.0",
+  "description": "css test",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "nodemon": "^1.17.5"
+  },
+  "scripts": {
+    "build-css": "bin/build-css",
+    "watch-css": "bin/watch-css"
+  },
+  "author": "Siddhartha",
+  "license": "ISC"
+}
